@@ -14,3 +14,48 @@ The tool contains a sample for 1000 password Wordlist. User can change the passw
 ### Installation
 ----
 ZipKiller Requires Python 2.7 or higher version to run.
+
+```sh
+$ git clone https://github.com/Encryptor-Sec/ZipKiller.git
+$ cd ZipKiller
+```
+
+### Usage
+---
+```sh
+$ python zip_killer.py
+```
+![Image description](https://github.com/shreenathXoX/Zip_File_Password_Cracker/blob/main/GITiMAGES/1.png)
+
+```sh
+1. Select the Option
+2. Enter Path of Zip File
+3. Enter Path of Wordlist OR Press Enter to go with default rockyou wordlist
+```
+![Image description](https://github.com/shreenathXoX/Zip_File_Password_Cracker/blob/main/GITiMAGES/2.png)
+
+
+```sh
+$ Press Enter to start Brute-Forcing ..
+```
+![Image description] ( https://github.com/shreenathXoX/Zip_File_Password_Cracker/blob/main/GITiMAGES/3.png )
+
+
+
+## Output
+----
+```sh
+As you can see we have got the password as : root
+```
+
+
+
+### Happy Hacking : )
+---
+
+
+
+
+
+
+  
